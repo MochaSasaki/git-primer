@@ -1,4 +1,4 @@
 hi
 佐々木萌佳
 今日は金曜日だ
-
+From master branch
